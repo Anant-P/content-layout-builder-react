@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.top-section-container {
+  background-color: #475569;
+  padding: 24px 48px;
+}
+.main-heading {
+  color: #e2e8f0;
+}
+.label-text {
+  color: #f1f5f9;
+  margin-left: 12px;
+}
